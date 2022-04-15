@@ -5,7 +5,7 @@
 - 💬 Ask me about **Keyboards, Neovim**
 - 📫 How to reach me **matthewdibi@gmail.com**
 
-#### Project I'm working on
+#### Projects I'm working on:
 
 - [Kura](https://github.com/eclipse/kura)
 - [Redox](https://github.com/mattdibi/redox-keyboard)
