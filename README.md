@@ -2,8 +2,8 @@
 
 - I’m currently working at [Eurotech S.p.A.](https://www.eurotech.com/en)
 - All of my projects are available at [Hackaday](https://hackaday.io/projects/hacker/340116)
-- 💬 Ask me about **Keyboards, Neovim**
-- 📫 How to reach me **matthewdibi@gmail.com**
+- Ask me about **Keyboards, Neovim**
+- How to reach me **matthewdibi@gmail.com**
 
 #### Projects I'm working on:
 
