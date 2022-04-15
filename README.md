@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Mattia Dal Ben
 
 - I’m currently working at [Eurotech S.p.A.](https://www.eurotech.com/en)
-- All of my projects are available at [https://hackaday.io/projects/hacker/340116](https://hackaday.io/projects/hacker/340116)
+- All of my projects are available at [Hackaday](https://hackaday.io/projects/hacker/340116)
 - 💬 Ask me about **Keyboards, Neovim**
 - 📫 How to reach me **matthewdibi@gmail.com**
 
